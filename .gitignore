@@ -1,0 +1,10 @@
+ # Ignorar la carpeta de dependencias
+    backend/node_modules
+# Ignorar archivos de entorno
+    backend/development.env
+    backend/qas.env
+    backend/production.env
+# dependencies
+frontend/node_modules
+
+*.env
